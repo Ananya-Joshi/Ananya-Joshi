@@ -5,3 +5,6 @@
 🪴 I'm a late-stage Computer Science Ph.D. student at Carnegie Mellon University   
 👀 I'm looking for job opportunities in statistical modeling and in data science for social good. 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-joshi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
